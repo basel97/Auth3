@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuthModel", "AuthModel\AuthModel.csproj", "{AF06922E-874C-4DDC-89BE-5FA3DB896964}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLayer", "DataLayer\DataLayer.csproj", "{D7F434CE-3EAD-41B4-B538-0FFF0D04DE37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelLayer", "ModelsLayer\ModelLayer.csproj", "{63B7DB9B-3669-4E91-84D9-FC0E70048FA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF06922E-874C-4DDC-89BE-5FA3DB896964}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF06922E-874C-4DDC-89BE-5FA3DB896964}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF06922E-874C-4DDC-89BE-5FA3DB896964}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF06922E-874C-4DDC-89BE-5FA3DB896964}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7F434CE-3EAD-41B4-B538-0FFF0D04DE37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7F434CE-3EAD-41B4-B538-0FFF0D04DE37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7F434CE-3EAD-41B4-B538-0FFF0D04DE37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7F434CE-3EAD-41B4-B538-0FFF0D04DE37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63B7DB9B-3669-4E91-84D9-FC0E70048FA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63B7DB9B-3669-4E91-84D9-FC0E70048FA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63B7DB9B-3669-4E91-84D9-FC0E70048FA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63B7DB9B-3669-4E91-84D9-FC0E70048FA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E085CA48-2903-47D3-8447-581749995669}
+	EndGlobalSection
+EndGlobal
