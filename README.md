@@ -1,2 +1,2 @@
-# Auth3
+# Auth3-API
 CustomIdentityAuth
